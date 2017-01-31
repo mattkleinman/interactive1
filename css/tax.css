@@ -1,4 +1,30 @@
-img.resize{
-   width:960px;
-   height:600px;
+#old-and-young {
+	height: 960px
+	width: 600px;
+	padding: 600px;
+}
+#amazon {
+	height: 960px
+	width: 600px;
+	padding: 600px;
+}
+#apple {
+	height: 960px
+	width: 600px;
+	padding: 600px;
+}
+#paypal {
+	height: 960px
+	width: 600px;
+	padding: 600px;
+}
+#minimal {
+	height: 960px
+	width: 600px;
+	padding: 600px;
+}
+#blue-and-yellow {
+	height: 960px
+	width: 600px;
+	padding: 600px;
 }
