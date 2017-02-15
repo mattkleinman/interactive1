@@ -1,0 +1,21 @@
+.amazon2{
+	position: absolute;
+	top: 70%;
+	left: 50%;
+
+	margin-left: -100px;
+}
+.amazon3{
+	position: absolute;
+	top: 40%;
+	left: 70%;
+
+	margin-left: -40px;
+}
+.amazon4{
+	position: absolute;
+	top: 40%;
+	left: 20%;
+
+	margin-left: -40px;
+}
