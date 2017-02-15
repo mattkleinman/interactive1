@@ -1,0 +1,27 @@
+.paypal2{
+	position: absolute;
+	top: 30%;
+	left: 80%;
+
+	margin-left: -300px;
+}
+
+.paypal3{
+	position: absolute;
+	top: 5%;
+	left: 30%;
+
+	margin-left: -200px;
+}
+
+.paypal4{
+	position: absolute;
+	top: 50%;
+	left: 35%;
+
+	margin-left: -100px;
+}
+body {
+
+	
+}
