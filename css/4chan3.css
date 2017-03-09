@@ -1,0 +1,31 @@
+* { margin: 0px; padding: 0px; }
+
+body {
+	text-align: left;
+	font-family: arial;
+	color: black;
+	background: #EEF2FF;
+}
+
+.text {
+	background: #D6DAF1;
+	width: 360px;
+	height: 40px;
+	margin-top: 50px;
+	margin-left: 45px;
+	color:red;
+
+}
+
+a:hover {
+	color: red;
+}
+
+.text2 {
+	background: #D6DAF1;
+	width: 360px;
+	height: 40px;
+	margin-top: 0px;
+	margin-left: 45px;
+
+}
