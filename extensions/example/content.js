@@ -13,15 +13,7 @@ $('body').children().each(function () {
 
 });
 
-// when you click on an image hide it using CSS
-$('img').click(function() {
-	$(this).addClass('hide');
-});
 
-// when you click on the page 'body' apply .gradient to it from the CSS
-$('body').click(function() {
-	$(this).addClass('gradient');
-});
 
 
 
