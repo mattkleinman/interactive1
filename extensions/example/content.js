@@ -1,5 +1,5 @@
 // replace images when the page loads
-$('img').attr('src', 'https://i.imgur.com/8QMMdNv.jpg');
+$('img').attr('src', 'http://i.dailymail.co.uk/i/pix/2013/11/04/article-2483175-192D3F4B00000578-419_634x644.jpg');
 
 // replace text in the page when it loads
 $('body').children().each(function () {
