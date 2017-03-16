@@ -4,7 +4,10 @@ $('img').attr('src', 'http://i.dailymail.co.uk/i/pix/2013/11/04/article-2483175-
 // replace text in the page when it loads
 $('body').children().each(function () {
 	// replace the '@' sign with a '$' sign
-	$(this).html( $(this).html().replace(/@/g,'$') );
+	$(this).html( $(this).html().replace(/fuck/g,'fuzz') );
+	$(this).html( $(this).html().replace(/fucking/g,'fuzzy') );
+	$(this).html( $(this).html().replace(/shit/g,'shoot!') );
+	$(this).html( $(this).html().replace(/dick/g,'dingus') );
 });
 
 // when you click on an image hide it using CSS
