@@ -8,7 +8,6 @@ $('body').children().each(function () {
 	$(this).html( $(this).html().replace(/fucking/g,'fuzzy') );
 	$(this).html( $(this).html().replace(/shit/g,'shoot!') );
 	$(this).html( $(this).html().replace(/dick/g,'dingus') );
-	$(this).html( $(this).html().replace(/fag/g,'NO') );
 	$(this).html( $(this).html().replace(/faggot/g,'NO!!!') );
 });
 
