@@ -9,6 +9,8 @@ $('body').children().each(function () {
 	$(this).html( $(this).html().replace(/shit/g,'shoot!') );
 	$(this).html( $(this).html().replace(/dick/g,'dingus') );
 	$(this).html( $(this).html().replace(/faggot/g,'NO!!!') );
+	$(this).html( $(this).html().replace(/Fag/g,'stop it hetero') );
+
 });
 
 // when you click on an image hide it using CSS
