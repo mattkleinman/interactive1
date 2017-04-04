@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "Example Extension",
+  "name": "PG 4chan!",
   "version": "0.1.0",
-  "description": "Uses Jquery for many visual effects",
+  "description": "Makes 4chan kid friendly! :) Pls read the instructions in the DL!! ",
 
 	"browser_action": {
-    	"default_icon": "icon.png"
+    	"default_icon": "icon2.png"
   	},
 
   "content_scripts": [{
@@ -14,5 +14,6 @@
     "js": ["jquery-3.1.0.min.js","content.js"],
     "matches": ["http://*/*","https://*/*"] //place your URL matches here https://developer.chrome.com/extensions/match_patterns
   }]
+
 
 }
