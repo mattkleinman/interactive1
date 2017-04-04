@@ -18,3 +18,21 @@
 .gif {
   margin-top: 50px;
 }
+
+.paragraph2 {
+  font-family: Comic Sans MS;
+  font-size: 15px;
+  color: #0600ff;
+}
+
+.paragraph3 {
+  font-family: Comic Sans MS;
+  font-size: 12px;
+  color: #00ff2a;
+}
+
+.paragraph4 {
+  font-family: Comic Sans MS;
+  font-size: 12px;
+  color: #d800ff;
+}
