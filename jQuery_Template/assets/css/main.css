@@ -1,0 +1,25 @@
+* {margin: 0px; padding 0px;}
+
+body {
+	position: relative;
+	min-height: 100vh;
+	min-width: 100vw;
+
+	background: blue;
+}
+
+#content {
+	color: white;
+}
+
+#content {
+	font-family: arial;
+	font-size: 100px;
+	text-align: center;
+	line-height: 100vh;
+	color: white;
+	opacity: 100;
+}
+
+
+

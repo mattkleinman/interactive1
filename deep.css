@@ -1,0 +1,25 @@
+* {margin: 0px; padding: 0px;}
+
+body {
+	position: relative;
+	min-height: 100vh;
+	min-width: 100vw;
+
+	background: #3B2E44;
+}
+
+#content {
+	color: #18EA22;
+}
+
+#content {
+	font-family: arial;
+	font-size: 100px;
+	text-align: center;
+	line-height: 100vh;
+	color: #18EA22;
+	opacity: 100;
+}
+
+
+
