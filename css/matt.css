@@ -100,7 +100,7 @@
 	margin-left: 870px;
   margin-top: 322px;
   position: fixed;
-  z-index: 2;
+  z-index: -1;
   
 
 }
