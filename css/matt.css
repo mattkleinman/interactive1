@@ -67,7 +67,7 @@
 
 #gif11 {
 	margin-left: 415px;
-  margin-top: -35px;
+  margin-top: -40px;
   position: fixed;
   z-index: -1;
 
@@ -97,7 +97,7 @@
 }
 
 #gif15 {
-	margin-left: 930px;
+	margin-left: 900px;
   margin-top: 322px;
   position: fixed;
   z-index: -1;
@@ -125,7 +125,7 @@
 	margin-left: 700px;
   margin-top: 300px;
   position: fixed;
-  z-index: -2;
+  z-index: -1;
 
 }
 
@@ -169,6 +169,14 @@
   margin-top: 225px;
   position: fixed;
   z-index: 2;
+
+ }
+
+ #gif24 {
+  margin-left: 470px;
+  margin-top: 255px;
+  position: fixed;
+  z-index: -2;
 
  }
 
