@@ -1,5 +1,6 @@
 $(document).ready(function(){
 
+
 $('#weed').hover(function() {
      	$('#weedtext').addClass('fiftypercent');
   	}, function() {
